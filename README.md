@@ -1,7 +1,7 @@
 # cs422_web-mail-sender
 Project for CS422 
 
-**Create a new virtual environment (optional):**
+**Create a new virtual environment:**
 <br />
 - From the root folder, run this command:
 ```
