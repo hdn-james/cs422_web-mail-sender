@@ -1,0 +1,24 @@
+{
+  "name": "cs422_web-mail-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhdainhan/cs422_web-mail-sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhdainhan/cs422_web-mail-sender/issues"
+  },
+  "homepage": "https://github.com/huynhdainhan/cs422_web-mail-sender#readme",
+  "devDependencies": {
+    "electron": "^12.0.4"
+  }
+}
